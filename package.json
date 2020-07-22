@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@csstools/sass-import-resolve": "^1.0.0",
+    "node-sass": "^4.14.1",
     "postcss": "^7.0.14",
     "sass": "^1.16.1",
     "source-map": "~0.7.3"
